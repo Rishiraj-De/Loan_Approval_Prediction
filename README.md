@@ -191,19 +191,25 @@ Loan_Approval_Prediction
 
 ### Dataset Overview
 
-(Add Screenshot Here)
+<img width="386" height="416" alt="image" src="https://github.com/user-attachments/assets/0080696e-b7c6-44c3-8c9d-130733eee40a" />
+
 
 ### Correlation Heatmap
 
-(Add Screenshot Here)
+<img width="500" height="337" alt="image" src="https://github.com/user-attachments/assets/f8320b61-0af0-471c-9bcf-67b66411dfa7" />
+
 
 ### EDA Dashboard
 
-(Add Screenshot Here)
+<img width="380" height="295" alt="image" src="https://github.com/user-attachments/assets/f9cd406c-3b77-430a-ba86-b9c6fac4b3b6" />
+<img width="425" height="318" alt="image" src="https://github.com/user-attachments/assets/41cbfef3-a549-4670-8ddd-c3e89f9e3565" />
+
 
 ### Model Comparison
 
-(Add Screenshot Here)
+<img width="608" height="327" alt="image" src="https://github.com/user-attachments/assets/663df870-dc34-4987-b922-02884b9fa857" />
+<img width="691" height="341" alt="image" src="https://github.com/user-attachments/assets/3e6fab23-6e41-4152-a114-03d6706ea2a6" />
+
 
 ---
 
@@ -231,4 +237,3 @@ GitHub: https://github.com/Rishiraj-De
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
